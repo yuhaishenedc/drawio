@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-05T08:46:38.936Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="YI4NHWfNGCfnYEEc_bM4" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-05T13:12:26.344Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="XzZrarpECMtfADkz14QJ" version="24.3.1" type="github">
   <diagram name="第 1 页" id="-sNarXn3bYcIwHpL6Iyx">
-    <mxGraphModel dx="1386" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="770" dy="422" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,7 +14,7 @@
           <mxGeometry x="80" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DB-tnavGCFEQmcXpQX1y-2" value="研究目标" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="250" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="260" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DB-tnavGCFEQmcXpQX1y-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="DB-tnavGCFEQmcXpQX1y-3" target="DB-tnavGCFEQmcXpQX1y-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -46,13 +46,13 @@
         <mxCell id="qXv7LJP2Twusi8GaxmQC-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qXv7LJP2Twusi8GaxmQC-5" target="DB-tnavGCFEQmcXpQX1y-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qXv7LJP2Twusi8GaxmQC-5" value="Electron应用的技术架构说明" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qXv7LJP2Twusi8GaxmQC-5" value="Electron应用的技术架构" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qXv7LJP2Twusi8GaxmQC-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="qXv7LJP2Twusi8GaxmQC-8" target="DB-tnavGCFEQmcXpQX1y-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qXv7LJP2Twusi8GaxmQC-8" value="Electron应用生命周期说明" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qXv7LJP2Twusi8GaxmQC-8" value="Electron应用生命周期" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qXv7LJP2Twusi8GaxmQC-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qXv7LJP2Twusi8GaxmQC-11" target="DB-tnavGCFEQmcXpQX1y-12">
@@ -67,13 +67,13 @@
         <mxCell id="qXv7LJP2Twusi8GaxmQC-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qXv7LJP2Twusi8GaxmQC-14" target="qXv7LJP2Twusi8GaxmQC-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qXv7LJP2Twusi8GaxmQC-14" value="QuickJS字节码机制介绍" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qXv7LJP2Twusi8GaxmQC-14" value="QuickJS字节码机制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qXv7LJP2Twusi8GaxmQC-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qXv7LJP2Twusi8GaxmQC-15" target="qXv7LJP2Twusi8GaxmQC-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qXv7LJP2Twusi8GaxmQC-15" value="更详细介绍require机制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qXv7LJP2Twusi8GaxmQC-15" value="详细说明require机制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qXv7LJP2Twusi8GaxmQC-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qXv7LJP2Twusi8GaxmQC-16" target="qXv7LJP2Twusi8GaxmQC-20">
@@ -84,6 +84,27 @@
         </mxCell>
         <mxCell id="qXv7LJP2Twusi8GaxmQC-20" value="优化的具体实现" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="827" y="530" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qXv7LJP2Twusi8GaxmQC-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qXv7LJP2Twusi8GaxmQC-26" target="qXv7LJP2Twusi8GaxmQC-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qXv7LJP2Twusi8GaxmQC-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qXv7LJP2Twusi8GaxmQC-26" target="qXv7LJP2Twusi8GaxmQC-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qXv7LJP2Twusi8GaxmQC-26" value="第四章：基于轻量级渲染引擎实现渲染加速" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qXv7LJP2Twusi8GaxmQC-27" value="研究目标" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qXv7LJP2Twusi8GaxmQC-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qXv7LJP2Twusi8GaxmQC-28" target="qXv7LJP2Twusi8GaxmQC-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qXv7LJP2Twusi8GaxmQC-28" value="研究方案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qXv7LJP2Twusi8GaxmQC-31" value="说明chromium多进程架构" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
